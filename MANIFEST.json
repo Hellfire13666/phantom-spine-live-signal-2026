@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "files": {
+    "INSTALL_LIVE_SHORTCUTS.sh": "b01a45932d3525ce1afa38c9f5c2627e936381a91157fd27749a47d26577149b",
+    "LICENSE-NOTICE.md": "20e90d7ada5d2b52de3a7290dda8344ea062629c69bd934d9d8c9a2263bf8910",
+    "OPEN_LIVE_GUIDE.sh": "bdd2b0369be4f8766bbe262bc123ac9ca23f2afb24758d09a4d1d1f461ec9e98",
+    "PUBLISHING_CHECKLIST.md": "66b7e1c0c9f7a419023325f4eaeae7bd8ac95ffbe1180000372b6ba20f3f4f24",
+    "README.md": "be615fe6579c663a6d53ff982fdc7c7df52d3af8f77cf17de649798663e951f9",
+    "RELEASE_NOTES.md": "ce490370511ab28d3f12dd4e04a6a1254f779e94619390f7838f22dd61a9df40",
+    "START_LIVE_HUNT.sh": "1b90a16e467eb2ed26ac8249161ab5b05912b135fba63a204183ceb59ee04c1a",
+    "START_PHANTOM_SPINE_LIVE.sh": "a0ac0258e51af6b83d17cc6b2168955f928ca9e2ce84f957efcd6980608713be",
+    "adapter-guide.html": "f4edda972e6993f40f355a3dde617c9a1425b26c3e577b0adb277395fa7f2353",
+    "assets/live.css": "59eb1cd8710be2742e2b691d8d6a83c5ae277106327c961bb067da340c630848",
+    "assets/live.js": "3eb452b08661190d33dbe22bc25e6afe899181d15492a049fc0aa919b8a9645a",
+    "assets/phantom-spine-cover.png": "776bffc6ed86389a8d32bf563cd91b80e85d6d628bcdf43dc0e0068b5d5454e3",
+    "assets/phantom-spine-emblem.svg": "0ebb10bdd4b1a30eaa4696e90ed7b147a4f72c7f90ca9068dd67748685c870df",
+    "assets/rosie-phantom-spine-approved.png": "5c903ba9d080a5ac1efc1f7fc49618832346b8e16e8fed0bc31421d6f1559541",
+    "connections.html": "1d05d55fac532460713404f0aeb747659537e0e6481da8723b41e8d32135908e",
+    "examples.html": "d7d2f8519d2c9f74ef8f1e37d893f9532d58cadfdeffe993cc571332ae17eb60",
+    "index.html": "e716bfbab4113782a1bc90e494921d080d182f19e557a966a968bc49f14603d0",
+    "phantom_spine_live_v0_2_0.py": "c01e3eefecec22181a94e918d8ec6871d0341f86e07a206397cc5b5b6458b5b9",
+    "scripts/verify_package.py": "f0e0ea60983d2555b3159f6c93bbee93e61a0d0547c25967e52e11896612489f",
+    "spine_live/__init__.py": "1551cf04691f85b4038bfcf7bf43e2289ad75ea5cec74bc65bfd556aa3498bb5",
+    "spine_live/core.py": "2815681accc7f9029795f69b1815ebec35071efda4a5f24c7c9189858dcd4630",
+    "tests/test_release_pages.py": "87ccf8e78b1efcb55ae24f91540ae6a7d0acb8df5c7a1ed87cb547940f5544de",
+    "tests/test_spine_live.py": "96d047414338f5bea73ebb7f4ccabf85c76e645837a4629ac1465be118062967",
+    "troubleshooting.html": "ca2a09b349a6ea4f8513bd82c5a0cf0c730884a8575f0e474e652c17e10b561e"
+  }
+}

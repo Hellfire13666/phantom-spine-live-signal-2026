@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Phantom Spine official visual portal emblem">
+<defs><linearGradient id="sp" x1="0" x2="1"><stop stop-color="#65F5DF"/><stop offset=".52" stop-color="#EBFBE9"/><stop offset="1" stop-color="#FFB65B"/></linearGradient><radialGradient id="bg"><stop stop-color="#172E39"/><stop offset="1" stop-color="#071016"/></radialGradient><filter id="g"><feGaussianBlur stdDeviation="11"/></filter></defs>
+<rect width="512" height="512" rx="104" fill="url(#bg)"/>
+<path d="M96 74L256 27 416 74M70 122V390L256 485 442 390V122" fill="none" stroke="#325C65" stroke-width="4" opacity=".75"/>
+<path d="M256 76V435" stroke="#51E9D1" stroke-width="18" opacity=".4" filter="url(#g)"/>
+<path d="M256 76V435" stroke="url(#sp)" stroke-width="7" stroke-linecap="round"/>
+<g fill="#0B202A" stroke="url(#sp)" stroke-width="7"><path d="M218 98 Q256 118 294 98 L286 118 Q256 144 226 118 Z"/>
+<path d="M211 126 Q256 146 301 126 L293 146 Q256 172 219 146 Z"/>
+<path d="M204 154 Q256 174 308 154 L300 174 Q256 200 212 174 Z"/>
+<path d="M218 182 Q256 202 294 182 L286 202 Q256 228 226 202 Z"/>
+<path d="M211 210 Q256 230 301 210 L293 230 Q256 256 219 230 Z"/>
+<path d="M204 238 Q256 258 308 238 L300 258 Q256 284 212 258 Z"/>
+<path d="M218 266 Q256 286 294 266 L286 286 Q256 312 226 286 Z"/>
+<path d="M211 294 Q256 314 301 294 L293 314 Q256 340 219 314 Z"/>
+<path d="M204 322 Q256 342 308 322 L300 342 Q256 368 212 342 Z"/>
+<path d="M218 350 Q256 370 294 350 L286 370 Q256 396 226 370 Z"/>
+<path d="M211 378 Q256 398 301 378 L293 398 Q256 424 219 398 Z"/>
+<path d="M204 406 Q256 426 308 406 L300 426 Q256 452 212 426 Z"/></g>
+<path d="M206 191C135 185 120 136 95 117M306 247C374 242 394 196 421 174M209 329C135 329 110 375 89 390" fill="none" stroke="#58F2DB" stroke-width="5" opacity=".86"/>
+<g fill="#FFB65B"><circle cx="95" cy="117" r="13"/><circle cx="421" cy="174" r="13"/><circle cx="89" cy="390" r="13"/></g>
+<path d="M104 425H407" stroke="#58F2DB" stroke-width="2" opacity=".2"/>
+</svg>
