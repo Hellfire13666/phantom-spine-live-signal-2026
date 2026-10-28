@@ -1,7 +1,7 @@
 # 👻 PHANTOM SPINE | Live Signal Bridge v0.2.0
 
 <!-- GLITCHBYTE-VISITOR-BADGE:START -->
-[![Page Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fphantom-spine-live-signal-2026&label=PAGE%20VIEWS&icon=skull&color=%23FF1493&style=flat-square)](https://github.com/Hellfire13666/phantom-spine-live-signal-2026)
+[![Page Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fphantom-spine-live-signal-2026&label=PAGE%20VIEWS&icon=emoji-smile&color=%23FF1493&style=flat-square)](https://github.com/Hellfire13666/phantom-spine-live-signal-2026)
 <!-- GLITCHBYTE-VISITOR-BADGE:END -->
 
 **GlitchByte Phantom Labs** · RosieGlitchbyte · Python 3 · Debian field-tested public-source intelligence and genuine SHA-256 evidence
